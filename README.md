@@ -63,7 +63,7 @@ Once the script is convinced it has retrieved all the rows via the Jive API, a t
 
 An image of the first few rows are presented below with actual members blurred out.
 
-![Progress_Bar](https://github.com/GJSissons/JiveMemberExtract/blob/master/progress.PNG)
+![Jive_Results](https://github.com/GJSissons/JiveMemberExtract/blob/master/jive_results_blurred.PNG)
 
 
 
