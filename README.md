@@ -51,6 +51,11 @@ I'm fond of Servage.NET as a shared hosting provider because they allow the use 
 
 After you upload the two script files, access them through your browser. You will see a screen like the one below
 
+![Request_Credentials](https://github.com/GJSissons/JiveMemberExtract/blob/master/index_capture.PNG)
+
+After you submit valid credentials a progress bar is displayed and updated as each call to the Jive API is made. This is necessary because the Jive API only allows 100 rows to be retrieved at one time.
+
+
 
 
 
