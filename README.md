@@ -55,6 +55,18 @@ After you upload the two script files, access them through your browser. You wil
 
 After you submit valid credentials a progress bar is displayed and updated as each call to the Jive API is made. This is necessary because the Jive API only allows 100 rows to be retrieved at one time.
 
+![Progress_Bar](https://github.com/GJSissons/JiveMemberExtract/blob/master/progress.PNG)
+
+This one is kind of a long story.
+
+Once the script is convinced it has retrieved all the rows via the Jive API, a table is presented that renders the associative array. This table could just as easily write a CSV file on the server and present it for download.
+
+An image of the first few rows are presented below with actual members blurred out.
+
+![Progress_Bar](https://github.com/GJSissons/JiveMemberExtract/blob/master/progress.PNG)
+
+
+
 
 
 
