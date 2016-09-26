@@ -47,6 +47,11 @@ If you are going to access the script from outside of Jive no worries - it will 
 
 I'm fond of Servage.NET as a shared hosting provider because they allow the use of a shared SSL certificate that prevents me needing to purchase a certification whenever I want to test an SSL enabled website like this one.
 
+##The user experience
+
+After you upload the two script files, access them through your browser. You will see a screen like the one below
+
+
 
 
 
